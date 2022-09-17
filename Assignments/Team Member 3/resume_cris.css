@@ -19,7 +19,7 @@ body {
 	margin: 5px;
 	display: grid;
 	grid-template-columns: 2fr 4fr;
-}184, 104, 0
+}
 .left {
 	position: initial;
 	justify-content: flex-start;
